@@ -1,0 +1,6 @@
+.settings/
+.classpath
+.project
+*.txt
+*.class
+project.properties
